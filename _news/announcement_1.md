@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Evaluating Intermediate Reasoning of Code-assisted LLMs for Mathematics](https://arxiv.org/abs/2504.17665) has been accepted at GEM workshop @ ACL 2025
+Our paper [Evaluating Intermediate Reasoning of Code-assisted LLMs for Mathematics](https://arxiv.org/abs/2504.17665) has been accepted to GEM workshop @ ACL 2025
