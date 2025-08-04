@@ -18,12 +18,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
- -->
-
 I'm a PhD student in the department of Language Science and Technology at Saarland University and a member of Saarland Informatics Campus. I work in the [Spoken Language Systems](https://www.lsv.uni-saarland.de/) group, advised by [Prof. Dr. Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de).
 I'm also an associate member at the [Research Training Group](https://www.neuroexplicit.org/) focusing on Neuroexplicit models.
 My research interest lies in Natural Language Processing with a focus on studying reasoning capabilities of Large Language Models.
