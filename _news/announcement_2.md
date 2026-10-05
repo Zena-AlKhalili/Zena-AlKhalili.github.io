@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I attneded ACL 2025 in Vienna to present [our work](https://arxiv.org/abs/2504.17665) in the [GEM workshop](https://gem-benchmark.com/workshop). 
+I attneded ACL 2025 in Vienna to present [our work](https://arxiv.org/abs/2504.17665) in the GEM workshop.

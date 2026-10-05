@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Excited to share that our paper [Fork-Think with Confidence] (https://arxiv.org/abs/2606.31484) has been accepted to COLM 🎉🎉. See you in San Francisco, if not blocked by a visa!
+Excited to share that our paper [Fork-Think with Confidence](https://arxiv.org/abs/2606.31484) has been accepted to COLM 🎉🎉. See you in San Francisco, if not blocked by a visa!
